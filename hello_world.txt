@@ -1,0 +1,4 @@
+HELLO WORLD
+My name is Julep.
+This is a text file I created for this test.
+Behold the dummy text.
